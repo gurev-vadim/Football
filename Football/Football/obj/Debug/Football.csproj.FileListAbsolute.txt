@@ -17,3 +17,10 @@ C:\Users\Vadim\Desktop\Football\Football\obj\Debug\Football.csprojAssemblyRefere
 C:\Users\Vadim\Desktop\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
 C:\Users\Vadim\Desktop\Football\Football\obj\Debug\Football.exe
 C:\Users\Vadim\Desktop\Football\Football\obj\Debug\Football.pdb
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\bin\Debug\Football.exe.config
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\bin\Debug\Football.exe
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\bin\Debug\Football.pdb
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\obj\Debug\Football.csprojAssemblyReference.cache
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\obj\Debug\Football.csproj.CoreCompileInputs.cache
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\obj\Debug\Football.exe
+C:\Users\Vadim\Desktop\Git\Football\Football\Football\obj\Debug\Football.pdb

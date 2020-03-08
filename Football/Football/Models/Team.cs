@@ -12,16 +12,11 @@ namespace Football
         public double Luck { get; set; }
 
         double team_skill;
-        public void AddPlayer(int[] team_strong)
-        {
-            Player player6 = new Player("name6", 21);
-            team_skill = player6.Skill;
-            Console.WriteLine(player6.Skill);
-        }
-        public Team(string name, int[] team_strong, double coach_luck, List<string> names)
+
+        public Team(string name, List<int> team_strong, double coach_luck, List<string> names )
         {
             Name = name;
-            for (int i = 0; i < team_strong.Length; i++)
+            for (int i = 0; i < team_strong.Count; i++)
             {
                 team_skill += team_strong[i];
             }
